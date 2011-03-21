@@ -1,9 +1,9 @@
 # Hash Field
 
-* Version: 1.0
-* Author: Symphony Team (team@symphony21.com)
-* Build Date: 13th April 2008
-* Requirements: Symphony Beta revision 5 or greater.
+* Version: 1.1
+* Author: Symphony Community (https://github.com/symphonists), originally by Alistair Kearney
+* Build Date: 2011-03-21
+* Requirements: Symphony 2.1
 
 ## Installation
 

@@ -4,11 +4,10 @@
 	
 		public function about(){
 			return array('name' => 'Field: Hash',
-						 'version' => '1.0',
-						 'release-date' => '2008-04-13',
-						 'author' => array('name' => 'Symphony Team',
-										   'website' => 'http://www.symphony21.com',
-										   'email' => 'team@symphony21.com')
+						 'version' => '1.1',
+						 'release-date' => '2011-03-21',
+						 'author' => array('name' => 'Symphony Community',
+										   'website' => 'https://github.com/symphonists')
 				 		);
 		}
 		
