@@ -13,13 +13,13 @@
 		}
 		
 		public function uninstall(){
-			$this->_Parent->Database->query("DROP TABLE `tbl_fields_hash`");
+			Symphony::Database()->query("DROP TABLE `tbl_fields_hash`");
 		}
 
 
 		public function install(){
 
-			return $this->_Parent->Database->query("CREATE TABLE `tbl_fields_hash` (
+			return Symphony::Database()->query("CREATE TABLE `tbl_fields_hash` (
 			  `id` int(11) unsigned NOT NULL auto_increment,
 			  `field_id` int(11) unsigned NOT NULL,
 			  PRIMARY KEY  (`id`),
