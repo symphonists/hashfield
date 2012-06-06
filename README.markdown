@@ -1,13 +1,13 @@
 # Hash Field
 
-* Version: 1.1
+* Version: 1.2
 * Author: Symphony Community (https://github.com/symphonists), originally by Alistair Kearney
-* Build Date: 2011-03-21
-* Requirements: Symphony 2.1
+* Build Date: 6th June 2012
+* Requirements: Symphony 2.3
 
 ## Installation
 
-1. Upload the 'hashfield' folder in this archive to your Symphony 'extensions' folder.
+1. Upload the `/hashfield` folder to your Symphony `/extensions` folder.
 2. Enable it by selecting the "Field: Hash", choose Enable from the with-selected menu, then click Apply.
 3. You can now add the "Hash" field to your sections.
 
